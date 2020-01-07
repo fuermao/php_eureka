@@ -1,5 +1,5 @@
 {
-    "name": "yckj/eureka_php",
+    "name": "fuermao/eureka_php",
     "description": "register php service with eureka service",
     "type": "library",
     "require": {
