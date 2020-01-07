@@ -295,3 +295,69 @@
 [Send Heart Beat Response]:
 ========================== Log End ==========================
 
+========================= Log Start =========================
+[Log Time]:2020-01-07 14:31:11:
+[Log Timestamp]:1578378671.0403
+[Log Level]:info
+[Send Heart Beat Url]:http://testserver.yichuangzone.com:8340/eureka
+[Request Method]:PUT
+[Send Heart Beat App Name]:test-php
+[Send Heart Beat Result]:发送心跳成功！
+[Send Heart Beat Response]:
+========================== Log End ==========================
+
+========================= Log Start =========================
+[Log Time]:2020-01-07 14:31:41:
+[Log Timestamp]:1578378701.0637
+[Log Level]:info
+[Send Heart Beat Url]:http://testserver.yichuangzone.com:8340/eureka
+[Request Method]:PUT
+[Send Heart Beat App Name]:test-php
+[Send Heart Beat Result]:发送心跳成功！
+[Send Heart Beat Response]:
+========================== Log End ==========================
+
+========================= Log Start =========================
+[Log Time]:2020-01-07 14:32:11:
+[Log Timestamp]:1578378731.1671
+[Log Level]:info
+[Send Heart Beat Url]:http://testserver.yichuangzone.com:8340/eureka
+[Request Method]:PUT
+[Send Heart Beat App Name]:test-php
+[Send Heart Beat Result]:发送心跳成功！
+[Send Heart Beat Response]:
+========================== Log End ==========================
+
+========================= Log Start =========================
+[Log Time]:2020-01-07 14:32:41:
+[Log Timestamp]:1578378761.2711
+[Log Level]:info
+[Send Heart Beat Url]:http://testserver.yichuangzone.com:8340/eureka
+[Request Method]:PUT
+[Send Heart Beat App Name]:test-php
+[Send Heart Beat Result]:发送心跳成功！
+[Send Heart Beat Response]:
+========================== Log End ==========================
+
+========================= Log Start =========================
+[Log Time]:2020-01-07 14:33:11:
+[Log Timestamp]:1578378791.3704
+[Log Level]:info
+[Send Heart Beat Url]:http://testserver.yichuangzone.com:8340/eureka
+[Request Method]:PUT
+[Send Heart Beat App Name]:test-php
+[Send Heart Beat Result]:发送心跳成功！
+[Send Heart Beat Response]:
+========================== Log End ==========================
+
+========================= Log Start =========================
+[Log Time]:2020-01-07 14:33:41:
+[Log Timestamp]:1578378821.3945
+[Log Level]:info
+[Send Heart Beat Url]:http://testserver.yichuangzone.com:8340/eureka
+[Request Method]:PUT
+[Send Heart Beat App Name]:test-php
+[Send Heart Beat Result]:发送心跳成功！
+[Send Heart Beat Response]:
+========================== Log End ==========================
+
