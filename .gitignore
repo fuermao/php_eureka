@@ -1,0 +1,10 @@
+# idea组件
+./idea/
+
+# 忽略composer组件目录
+./vendor/
+
+# 忽略composer锁定文件
+./composer.lock
+
+./logs/

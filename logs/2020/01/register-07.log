@@ -1,0 +1,11 @@
+========================= Log Start =========================
+[Log Time]:2020-01-07 14:17:37:
+[Log Timestamp]:1578377857.775
+[Log Level]:info
+[Register Url]:http://testserver.yichuangzone.com:8340/eureka
+[Register Config]:{"instance":{"instanceId":"test-php.ermao.com:test-php:80","hostName":"test-php.ermao.com","app":"test-php","ipAddr":"192.168.0.50","status":"UP","overriddenstatus":"UNKNOWN","port":{"$":"80","@enabled":true},"securePort":{"$":"443","@enabled":false},"countryId":"1","dataCenterInfo":{"@class":"com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo","name":"MyOwn"},"homePageUrl":"http:\/\/test-php.ermao.com","statusPageUrl":"http:\/\/test-php.ermao.com\/info","healthCheckUrl":"http:\/\/test-php.ermao.com\/health","vipAddress":"test-php","secureVipAddress":"test-php","metadata":{"app-id":"eoRkv0KveZ5Ph2KkbK0g2H1LusoCFtAh","app-secret":"sAfZ3nKZK014fUwRpIdXaf36D0GBKluW"}}}
+[Request Method]:POST
+[Register Result]:注册成功！
+[Register Response]:
+========================== Log End ==========================
+

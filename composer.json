@@ -1,0 +1,21 @@
+{
+    "name": "yckj/eureka_php",
+    "description": "register php service with eureka service",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "php": ">=7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ermao",
+            "email": "120191115@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Eureka\\": "src/"
+        }
+    }
+}
